@@ -1,7 +1,9 @@
-import { useEffect, useState } from "react";
-import { SelectedPage } from "@/shared/types";
-import Navbar from "@/scenes/navbar";
 import Home from "@/scenes/home";
+import Navbar from "@/scenes/navbar";
+import Benefits from "@/scenes/benefits";
+
+import { SelectedPage } from "@/shared/types";
+import { useEffect, useState } from "react";
 
 const App = () => {
   const [selectedPage, setSelectedPage] = useState<SelectedPage>(
@@ -20,6 +22,7 @@ const App = () => {
     window.addEventListener("scroll", handleScroll);
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
+
   return (
     <div className="app bg-gray-20">
       <Navbar
@@ -29,6 +32,7 @@ const App = () => {
       />
 
       <Home setSelectedPage={setSelectedPage} />
+      <Benefits setSelectedPage={setSelectedPage} />
     </div>
   );
 };
