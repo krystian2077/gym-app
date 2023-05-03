@@ -14,7 +14,6 @@
   - [🚀 Live Demo](#-live-demo)
   - [🔭 Features](#-features)
   - [📦 Built With](#-built-with)
-  - [📱 Responsive](#-responsive)
   - [🌏 Getting Started](#-getting-started)
     - [Prerequisites](#prerequisites)
     - [🔧 Installation](#-installation)
@@ -48,11 +47,6 @@ Link: https://gym-app-ms09.onrender.com
   </a>
 </p>
 
-## 📱 Responsive
-
-<img src="src/assets/start2.png" alt="Start" >
-<img src="src/assets/start3.png" alt="Start" >
-<img src="src/assets/start4.png" alt="Start" >
 ## 🌏 Getting Started
 
 To run this project, install it locally using npm.
