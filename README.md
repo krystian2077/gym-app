@@ -4,7 +4,7 @@
 
 [![forthebadge](http://forthebadge.com/images/badges/made-with-typescript.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
-  
-  <img src="images/start.png" alt="Start" style="margin-bottom: 50px">
+
+  <img src="src/assets/start.png" alt="Start" style="margin-bottom: 50px">
   
   </div>
