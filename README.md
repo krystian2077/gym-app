@@ -14,19 +14,17 @@
 - [About The Project](#about-the-project)
 - [Features](#features)
 - [Live Demo](#live-demo)
-- [Built With
-  ](#built-with
-  )
+- [Built With](#built-with)
 - [Responsive Mobile](#responsive-mobile)  
 - [Getting Started
   ](#getting-started)
 - [Roadmap](#roadmap)
 - [Contact](#contact)
 
-## 🚀 Live Demo
+ ## 🚀 Live Demo
    Link: https://gym-app-ms09.onrender.com
    
-## 💬 About The Project
+ ## 💬 About The Project
 My motivation for writing this project was to expand my knowledge of working with data.
 Thanks to this project I gained knowledge about data design and organized. It was a big challenge with many errors and a lot of knowledge.
   
@@ -35,7 +33,7 @@ In the project I used Material UI and Material UI Data Grid. I feel comfortable 
 I also used Nivo, a library that visualizes diagrams,charts, maps and other things related to statistics and data organized.
 I learned a lot about React Redux and how to use it in this project.The hardest part of the project was working with the backend controller logic. It was a dose of a lot of knowledge for me and a lot of time spent reading the documentation and looking for new solutions.
 
-## 📦 Built With
+ ## 📦 Built With
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -43,7 +41,7 @@ I learned a lot about React Redux and how to use it in this project.The hardest 
   </a>
 </p>
 
-##  🌏 Getting Started
+ ##  🌏 Getting Started
 
 To run this project, install it locally using npm.
 
@@ -75,7 +73,7 @@ Install the latest version of npm in your runtime.
    npm run dev
    ```
 
-## 🐾 Roadmap
+ ## 🐾 Roadmap
 
 - Add Login/Register with authentication
 - Add dark/light mode
@@ -83,7 +81,7 @@ Install the latest version of npm in your runtime.
 
 
 <!-- CONTACT -->
-## 📞 Contact
+ ## 📞 Contact
 
 Email: krystian.potaczek07@gmail.com
 
