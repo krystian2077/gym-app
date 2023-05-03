@@ -12,7 +12,7 @@
 
 - [🚩 Table of Contents](#-table-of-contents)
   - [🚀 Live Demo](#-live-demo)
-  - [💬 About The Project](#-about-the-project)
+  - [🔭 Features](#-features)
   - [📦 Built With](#-built-with)
   - [🌏 Getting Started](#-getting-started)
     - [Prerequisites](#prerequisites)
@@ -24,15 +24,20 @@
 
 Link: https://gym-app-ms09.onrender.com
 
-## 💬 About The Project
+## 🔭 Features
 
-My motivation for writing this project was to expand my knowledge of working with data.
-Thanks to this project I gained knowledge about data design and organized. It was a big challenge with many errors and a lot of knowledge.
-
-Dashboard App is a project that helps you visualize sales statistics using tables, charts, diagrams and statistics.
-In the project I used Material UI and Material UI Data Grid. I feel comfortable in this library and it's nice to work in it.
-I also used Nivo, a library that visualizes diagrams,charts, maps and other things related to statistics and data organized.
-I learned a lot about React Redux and how to use it in this project.The hardest part of the project was working with the backend controller logic. It was a dose of a lot of knowledge for me and a lot of time spent reading the documentation and looking for new solutions.
+- TypeScript and React
+- Landing Page
+- Full Responsive
+- Tailwind Styling
+- Framer Motion animation
+- Hero Icons
+- React Anchor Link smooth Scroll
+- Form Submit
+- React Hook Form
+- Send Email
+- Side Scroller
+- Vite for starter pack
 
 ## 📦 Built With
 
