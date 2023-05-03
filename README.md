@@ -51,21 +51,21 @@ To run this project, install it locally using npm.
 Install the latest version of npm in your runtime.
 
 - npm
-- ```sh
+  ```sh
   npm install npm@latest -g
   ```
 
 ### 🔧 Installation
 
 1.  Clone the repo
-2.  ```sh
+    ```sh
     git clone https://github.com/krystian2077/gym-app
     ```
-3.  Install NPM packages
+2.  Install NPM packages
     ```sh
     npm install
     ```
-4.  Run npm script
+3.  Run npm script
     ```sh
     npm run dev
     ```
